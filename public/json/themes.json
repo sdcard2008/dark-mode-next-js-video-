@@ -1,0 +1,22 @@
+{
+    "global" : {
+        "dark" : {
+            "bg" : "bg-dark"
+        } ,
+        "light" :  {
+            "bg" : "bg-light"
+        }
+    } , 
+    "test-page"  : {
+        "dark" : {
+            "bg" : "bg-dark" ,
+            "heading" : "heading-dark" ,
+            "sub-heading" : "subheading-dark" 
+        } ,
+         "light" : {
+            "bg" : "bg-light" ,
+            "heading" : "heading-light" ,
+            "sub-heading" : "subheading-light" 
+        }
+    }
+}
